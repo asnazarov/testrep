@@ -1,4 +1,4 @@
-создан в ветке мастер  To be, or not to be, that is the question;
+создан в ветке мастер, изменили в девелоп To be, or not to be, that is the question;
 
 снова добавили в масте код;
 
